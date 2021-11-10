@@ -1,0 +1,17 @@
+[2021-11-10 03:11:46.895] [renderer1] [info] Starting extension host with pid 13041.
+[2021-11-10 03:11:46.904] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 65 ms.
+[2021-11-10 03:11:49.464] [renderer1] [error] [Extension Host] (node:13041) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-10 03:12:12.738] [renderer1] [info] Starting extension host with pid 13123.
+[2021-11-10 03:12:12.741] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 100 ms.
+[2021-11-10 03:12:14.991] [renderer1] [error] [Extension Host] (node:13123) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-10 03:13:08.937] [renderer1] [info] Starting extension host with pid 13210.
+[2021-11-10 03:13:08.938] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 147 ms.
+[2021-11-10 03:13:12.811] [renderer1] [error] [Extension Host] (node:13210) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-10 03:13:25.912] [renderer1] [info] Starting extension host with pid 13283.
+[2021-11-10 03:13:25.916] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 129 ms.
+[2021-11-10 03:13:29.357] [renderer1] [error] [Extension Host] (node:13283) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-10 03:58:22.808] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
